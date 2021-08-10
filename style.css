@@ -1,0 +1,85 @@
+a.notunderline {
+  text-decoration: none;
+  color: #000066;
+}
+
+.responsive {
+  width: 90%;
+  height: auto;
+  text-align: center;
+  text-align: left;
+  margin: auto;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+figcaption {
+  font-size:0.8rem;
+  text-align: center;
+}
+
+.back {
+  font-size:1rem;
+}
+
+body {
+    text-align: center;
+    font-family: 'Roboto';
+    font-size: 1.1rem;
+    line-height: 1.9rem;
+    padding: 1rem;
+}
+
+.center {
+  text-align: center;
+  text-align: left;
+  margin: auto;
+  width: 50%;
+}
+
+
+h1 {
+  text-align: center;
+  color: #000066;
+
+}
+
+h5 {
+    font-family: 'Roboto Slab', serif;
+    font-size: 1.5rem;
+    font-weight: light;
+    margin: auto;
+    text-decoration: none;
+}
+
+#ki {
+  font-family: 'Pinyon Script', cursive;
+  font-size: 4.3rem;
+  margin: auto;
+}
+
+/* For width larger than 400px: */
+.influencer {
+  width: 60%;
+  height: auto;
+}
+
+/* For width 400px and smaller: */
+@media only screen and (max-width: 700px) {
+  .influencer {
+    width: 90%;
+    height: auto;
+  }
+  .center {
+    width: auto;
+  }
+}
+
+/* #about {
+  margin-right:4rem;
+} */
