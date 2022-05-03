@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Projects</title>
+    <link href="style.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <div class="container-fluid">
+      <div class="row-fluid">
+    <div class="span12">
+      <h1 id='ki'>Kiyeon Lee</h1>
+    </div>
+      </div>
+      <div class="row-fluid">
+    <div class="span12 details">
+      <h5>
+        <p>
+          <a>Some of my interests are...</a>,
+        </p>
+        <img id="main" src="media/influencer.jpg" alt="Profile photo" class="influencer">
+      </h5>
+    </div>
+        </div>
+    </div>
+  </body>
+</html>
