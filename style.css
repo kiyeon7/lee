@@ -2,6 +2,16 @@ body {
     margin-top: 1rem;
     font-family: 'Roboto Slab', serif;
     text-align: center;
+    font-size:1.4vw;
+}
+
+.centered-container {
+    text-align: justify;
+
+    margin: auto;   /* this is key for making mini container    */
+    width: 50%;     /* this is key for making mini container    */
+    border: 3px;
+    /* padding: 5px; */
 }
 
 #ki {
@@ -9,8 +19,18 @@ body {
   font-size: 4.3rem;
 }
 
-h5 {
-    font-size: 1.5rem;
+h1 {
+    text-align: center;
+    padding: 5px;
+}
+
+/* h5 {
+    font-size: 1.3rem;
+} */
+
+
+ul li {
+    padding: 6px 0px;
 }
 
 img#main {
