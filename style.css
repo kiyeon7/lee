@@ -8,15 +8,16 @@ body {
 .centered-container {
     text-align: justify;
 
-    margin: auto;   /* this is key for making mini container    */
-    width: 50%;     /* this is key for making mini container    */
+    margin: auto;   
+    width: 50%;          
     border: 3px;
     /* padding: 5px; */
 }
 
+
 #ki {
   font-family: 'Pinyon Script', cursive;
-  font-size: 4.3rem;
+  font-size: 4.5rem;
 }
 
 h1 {
@@ -33,6 +34,11 @@ ul li {
     padding: 6px 0px;
 }
 
+.influencer-image-container {
+    padding:3em;
+}
+
 img#main {
-    width: 700px;
+    padding-top: 1em
+    /* width: 35em; */
 }
