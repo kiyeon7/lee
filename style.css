@@ -2,11 +2,11 @@ body {
     margin-top: 1rem;
     font-family: 'Roboto Slab', serif;
     text-align: center;
-    font-size:1.4vw;
+    /* font-size:1.4vw;  */
 }
 
 .centered-container {
-    text-align: center;
+    /* text-align: center; */
     
     /* flex-direction: column;
     justify-content: flex-start; */
@@ -20,6 +20,8 @@ body {
 .aligned-textbox{
     display: inline-block;
     text-align: left;
+    font-size: 1.3em;
+
 }
 
 #ki {
