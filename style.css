@@ -6,14 +6,21 @@ body {
 }
 
 .centered-container {
-    text-align: justify;
+    text-align: center;
+    
+    /* flex-direction: column;
+    justify-content: flex-start; */
 
-    margin: auto;   
-    width: 50%;          
-    border: 3px;
+    /* margin: auto;    */
+    /* width: 50%;           */
+    /* border: 3px; */
     /* padding: 5px; */
 }
 
+.aligned-textbox{
+    display: inline-block;
+    text-align: left;
+}
 
 #ki {
   font-family: 'Pinyon Script', cursive;
@@ -32,6 +39,8 @@ h1 {
 
 ul li {
     padding: 6px 0px;
+    /* text-align: center; */
+    list-style-position: inside;
 }
 
 .influencer-image-container {
