@@ -45,11 +45,11 @@ ul li {
     list-style-position: inside;
 }
 
-.influencer-image-container {
+/* .influencer-image-container {
     padding:3em;
-}
+} */
 
-img#main {
-    padding-top: 1em
-    /* width: 35em; */
+img#space {
+    /* Spacing between words and image */
+    padding-top: 1em;
 }

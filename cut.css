@@ -10,10 +10,19 @@
         </ul>   
       </p>   
 
+      <p class = "h3">
+        <a href="https://www.linkedin.com/in/kiyeon/">LinkedIn</a>,
+        <a href="mailto:kiyeonlee@college.harvard.edu">Email</a>
+      </p>
 
 <p>
   <a href="mailto:kiyeonlee@college.harvard.edu">email</a>
 </p>
+
+
+<div class="px-sm-4">
+<img id="main" src="media/influencer.jpg" alt="Profile photo" class="influencer col-sm-12 col-lg-6">
+</div>
 
 
 .responsive {
