@@ -39,10 +39,13 @@ h1 {
 } */
 
 
-ul li {
-    padding: 6px 0px;
+li {
+    margin: 0.25em;   /* bullet line height adjust */
+    
+    
+    /* padding: 0px 0px; */
     /* text-align: center; */
-    list-style-position: inside;
+    /* list-style-position: inside; */
 }
 
 /* .influencer-image-container {
