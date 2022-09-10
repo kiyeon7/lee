@@ -2,7 +2,7 @@ body {
     margin-top: 1rem;
     font-family: 'Roboto Slab', serif;
     text-align: center;
-    /* font-size:1.4vw;  */
+    font-size: 1.3em;
 }
 
 .centered-container {
@@ -54,5 +54,5 @@ li {
 
 img#space {
     /* Spacing between words and image */
-    padding-top: 1em;
+    padding-top: 0em;
 }
