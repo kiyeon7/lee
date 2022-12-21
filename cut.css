@@ -111,3 +111,9 @@ h5 {
 /* #about {
   margin-right:4rem;
 } */
+
+
+<figure>
+  <img src="media/david.jpg" alt="Michelangelo's David" id="space">
+  <figcaption style="font-size: 0.8em">Michelangelo's <em>David</em></figcaption>
+</figure>
